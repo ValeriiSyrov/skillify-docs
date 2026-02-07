@@ -12,12 +12,12 @@ This repo is published via GitHub Pages. To access the privacy policy via web:
 
 1. Go to repository **Settings** → **Pages**
 2. Select **Branch:** `main` (or `master`), **Folder:** `/ (root)`
-3. Save — GitHub will provide a public URL like `https://yourusername.github.io/skillify-docs/`
-4. Access the privacy policy at: `https://yourusername.github.io/skillify-docs/privacy-policy.md`
+3. Save — GitHub will provide a public URL like `https://github.com/ValeriiSyrov/skillify-docs`
+4. Access the privacy policy at: `https://github.com/ValeriiSyrov/skillify-docs/blob/main/privacy-policy.md`
 
 Or use a direct link to the raw markdown:
 ```
-https://raw.githubusercontent.com/yourusername/skillify-docs/main/privacy-policy.md
+https://raw.githubusercontent.com/ValeriiSyrov/skillify-docs/main/privacy-policy.md
 ```
 
 ## Updates

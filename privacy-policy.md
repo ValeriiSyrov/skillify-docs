@@ -9,36 +9,32 @@ Skillify ("App," "we," "us," "our") is committed to protecting your privacy. Thi
 ## 1. Information We Collect
 
 ### 1.1 Account Information
-- **Name, Email Address** — Collected during account creation and Sign in with Apple authentication.
+- **Apple ID** — Collected with sign in with Apple authentication.
+- **Username** — Collected. This is any unique identification that a user sets
 - **Authentication Data** — Secure tokens and credentials for account access.
 
 ### 1.2 User-Generated Content
-- **Skills** — Skill names, descriptions, and proficiency levels you add.
+- **Skills** — Skill names, descriptions.
 - **Habits** — Habit tracking data, frequency, and completion logs.
-- **Activities** — Logs of learning activities, achievements, and progress.
+- **Activities** — Activity tracking data, achievements, and progress.
 - **Trophies/Badges** — Achievement milestones and rewards you earn.
 
 ### 1.3 Usage Data
-- **App Analytics** — How you interact with the App (features used, time spent, session duration).
-- **Device Information** — Device type, OS version, app version.
-- **Log Data** — Error logs and performance metrics.
+- **App Analytics** — no tracking.
+- **Device Information** — no tracking.
+- **Log Data** — Error logs.
 
 ### 1.4 Location Data
-- We do **not** collect precise location data unless you explicitly grant permission and use location-dependent features.
+- The app does not use any location data from you device.
 
 ## 2. How We Use Your Information
 
-- **Account Management** — To create, maintain, and authenticate your account.
-- **Service Delivery** — To provide habit tracking, skill progression, and achievement features.
-- **Personalization** — To customize your experience, recommend habits, and display relevant content.
-- **Communication** — To send you important notifications, updates, and support responses.
-- **Analytics & Improvement** — To understand usage patterns and improve the App.
-- **Legal Compliance** — To comply with applicable laws and regulations.
+Information is stored in DB as a backup for your user if you switch the device. The app is offline first 
 
 ## 3. Data Storage & Synchronization
 
 ### 3.1 Local Storage
-- Your skills, habits, and activity data are stored locally on your device using encrypted local storage.
+- Your skills, habits, and activity data are stored locally on your device using local storage.
 
 ### 3.2 Server Sync
 - Data is synchronized with our backend servers to enable cross-device access and backup.
@@ -53,7 +49,6 @@ Skillify ("App," "we," "us," "our") is committed to protecting your privacy. Thi
 ### 4.1 Apple Sign In
 - We use **Apple's Sign in with Apple** for authentication.
 - Apple provides an anonymous identifier for your account; we do not receive your Apple ID or password.
-- You can manage your Skillify app permissions in Apple ID Settings → Apps & Websites.
 
 ### 4.2 Backend Infrastructure
 - Your data is processed by our backend servers for synchronization and feature delivery.
@@ -79,13 +74,10 @@ Depending on your location, you may have rights including:
 - **Portability:** Obtain your data in a structured, portable format.
 - **Objection:** Object to certain processing activities.
 
-To exercise these rights, contact us at **[your-email@example.com]**.
+To exercise these rights, contact us at **[skillify.app@gmail.com]**.
 
-## 7. Children's Privacy
 
-Skillify is **not intended for users under 13** (or the applicable age of digital consent in your region). We do not knowingly collect personal data from children under 13. If we become aware that a child under 13 has provided personal data, we will delete it promptly.
-
-## 8. International Data Transfers
+## 7. International Data Transfers
 
 If you are located outside the country where our servers are hosted, your data may be transferred to and stored in a different jurisdiction. By using Skillify, you consent to such transfers, subject to applicable laws and protections.
 
@@ -97,7 +89,7 @@ We may update this Privacy Policy periodically. The updated version will be post
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
-**Email:** [your-email@example.com]  
+**Email:** [skillify.app@gmail.com]  
 **App:** Skillify (iOS)
 
 ---
