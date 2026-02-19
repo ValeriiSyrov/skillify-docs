@@ -1,10 +1,10 @@
-# Privacy Policy for Skillify
+# Privacy Policy for Protafy
 
 **Last Updated:** February 7, 2026
 
 ## Overview
 
-Skillify ("App," "we," "us," "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and otherwise process personal data through our mobile application.
+Protafy ("App," "we," "us," "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and otherwise process personal data through our mobile application.
 
 ## 1. Information We Collect
 
@@ -74,23 +74,23 @@ Depending on your location, you may have rights including:
 - **Portability:** Obtain your data in a structured, portable format.
 - **Objection:** Object to certain processing activities.
 
-To exercise these rights, contact us at **[skillify.app@gmail.com]**.
+To exercise these rights, contact us at **[Protafy.app@gmail.com]**.
 
 
 ## 7. International Data Transfers
 
-If you are located outside the country where our servers are hosted, your data may be transferred to and stored in a different jurisdiction. By using Skillify, you consent to such transfers, subject to applicable laws and protections.
+If you are located outside the country where our servers are hosted, your data may be transferred to and stored in a different jurisdiction. By using Protafy, you consent to such transfers, subject to applicable laws and protections.
 
 ## 9. Changes to This Privacy Policy
 
-We may update this Privacy Policy periodically. The updated version will be posted with a new "Last Updated" date. Continued use of Skillify after changes constitutes your acceptance of the updated policy.
+We may update this Privacy Policy periodically. The updated version will be posted with a new "Last Updated" date. Continued use of Protafy after changes constitutes your acceptance of the updated policy.
 
 ## 10. Contact Us
 
 If you have questions, concerns, or requests regarding this Privacy Policy or our data practices, please contact us at:
 
-**Email:** [skillify.app@gmail.com]  
-**App:** Skillify (iOS)
+**Email:** [protafy.app@gmail.com]  
+**App:** Protafy (iOS)
 
 ---
 
